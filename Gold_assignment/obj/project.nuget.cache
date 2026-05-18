@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KpMqUPwTC1I=",
+  "dgSpecHash": "M3ls3lQ9WuQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\admin\\Desktop\\수업\\Gold_assignment\\Gold_assignment\\Gold_assignment.csproj",
+  "projectFilePath": "C:\\Users\\admin\\Documents\\GitHub\\GM07_ChangEunsoo_ElementalAlchemist\\Gold_assignment\\Gold_assignment.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\spectre.console\\0.55.2\\spectre.console.0.55.2.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\spectre.console.ansi\\0.55.2\\spectre.console.ansi.0.55.2.nupkg.sha512"

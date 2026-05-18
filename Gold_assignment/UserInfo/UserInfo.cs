@@ -41,10 +41,13 @@ namespace UserInfo
                     Burn(elementNum);
                     break;
                 case 2: //물
+                    damage = elementNum * WaterAtk;
                     break;
                 case 3: //풀
+                    damage = elementNum * GrassAtk;
                     break;
                 case 4: //번
+                    damage = elementNum * ElectricAtk;
                     break;
             }
             return damage;
@@ -62,7 +65,7 @@ namespace UserInfo
             if (CurrentHp > MaxHp)
             { CurrentHp = MaxHp; }
             Console.WriteLine($"물의 기운이 {Name}을 회복시킵니다.");
-            Console.WriteLine($"물 원소 {elementNum} + 물속");
+            Console.WriteLine($"물 원소 {elementNum} + 물 감응력 {WaterAtk}");
         }
         //보드 장악(풀) 자라나라~~ (물원소를 대체할거임)
         public void Tangled(int elementNum)

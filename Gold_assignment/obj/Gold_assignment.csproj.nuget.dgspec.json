@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\admin\\Desktop\\수업\\Gold_assignment\\Gold_assignment\\Gold_assignment.csproj": {}
+    "C:\\Users\\admin\\Documents\\GitHub\\GM07_ChangEunsoo_ElementalAlchemist\\Gold_assignment\\Gold_assignment.csproj": {}
   },
   "projects": {
-    "C:\\Users\\admin\\Desktop\\수업\\Gold_assignment\\Gold_assignment\\Gold_assignment.csproj": {
+    "C:\\Users\\admin\\Documents\\GitHub\\GM07_ChangEunsoo_ElementalAlchemist\\Gold_assignment\\Gold_assignment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\Desktop\\수업\\Gold_assignment\\Gold_assignment\\Gold_assignment.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\Documents\\GitHub\\GM07_ChangEunsoo_ElementalAlchemist\\Gold_assignment\\Gold_assignment.csproj",
         "projectName": "Gold_assignment",
-        "projectPath": "C:\\Users\\admin\\Desktop\\수업\\Gold_assignment\\Gold_assignment\\Gold_assignment.csproj",
+        "projectPath": "C:\\Users\\admin\\Documents\\GitHub\\GM07_ChangEunsoo_ElementalAlchemist\\Gold_assignment\\Gold_assignment.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\Desktop\\수업\\Gold_assignment\\Gold_assignment\\obj\\",
+        "outputPath": "C:\\Users\\admin\\Documents\\GitHub\\GM07_ChangEunsoo_ElementalAlchemist\\Gold_assignment\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
