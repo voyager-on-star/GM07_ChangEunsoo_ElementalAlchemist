@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\admin\\Documents\\GitHub\\GM07_ChangEunsoo_ElementalAlchemist\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FE463AFF-3FAC-4881-9CB2-9A182B119530}|Gold_assignment\\Gold_assignment.csproj|c:\\users\\admin\\documents\\github\\gm07_changeunsoo_elementalalchemist\\gold_assignment\\boardsystem\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE463AFF-3FAC-4881-9CB2-9A182B119530}|Gold_assignment\\Gold_assignment.csproj|solutionrelative:gold_assignment\\boardsystem\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE463AFF-3FAC-4881-9CB2-9A182B119530}|Gold_assignment\\Gold_assignment.csproj|c:\\users\\admin\\documents\\github\\gm07_changeunsoo_elementalalchemist\\gold_assignment\\uisystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE463AFF-3FAC-4881-9CB2-9A182B119530}|Gold_assignment\\Gold_assignment.csproj|solutionrelative:gold_assignment\\uisystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE463AFF-3FAC-4881-9CB2-9A182B119530}|Gold_assignment\\Gold_assignment.csproj|c:\\users\\admin\\documents\\github\\gm07_changeunsoo_elementalalchemist\\gold_assignment\\maingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE463AFF-3FAC-4881-9CB2-9A182B119530}|Gold_assignment\\Gold_assignment.csproj|solutionrelative:gold_assignment\\maingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE463AFF-3FAC-4881-9CB2-9A182B119530}|Gold_assignment\\Gold_assignment.csproj|c:\\users\\admin\\documents\\github\\gm07_changeunsoo_elementalalchemist\\gold_assignment\\gamesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE463AFF-3FAC-4881-9CB2-9A182B119530}|Gold_assignment\\Gold_assignment.csproj|solutionrelative:gold_assignment\\gamesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FE463AFF-3FAC-4881-9CB2-9A182B119530}|Gold_assignment\\Gold_assignment.csproj|c:\\users\\admin\\documents\\github\\gm07_changeunsoo_elementalalchemist\\gold_assignment\\userinfo\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE463AFF-3FAC-4881-9CB2-9A182B119530}|Gold_assignment\\Gold_assignment.csproj|solutionrelative:gold_assignment\\userinfo\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,16 +27,8 @@
       "RelativeMoniker": "D:0:0:{FE463AFF-3FAC-4881-9CB2-9A182B119530}|Gold_assignment\\Gold_assignment.csproj|solutionrelative:gold_assignment\\mobinfo\\mobinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE463AFF-3FAC-4881-9CB2-9A182B119530}|Gold_assignment\\Gold_assignment.csproj|c:\\users\\admin\\documents\\github\\gm07_changeunsoo_elementalalchemist\\gold_assignment\\gamesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE463AFF-3FAC-4881-9CB2-9A182B119530}|Gold_assignment\\Gold_assignment.csproj|solutionrelative:gold_assignment\\gamesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE463AFF-3FAC-4881-9CB2-9A182B119530}|Gold_assignment\\Gold_assignment.csproj|c:\\users\\admin\\documents\\github\\gm07_changeunsoo_elementalalchemist\\gold_assignment\\maingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE463AFF-3FAC-4881-9CB2-9A182B119530}|Gold_assignment\\Gold_assignment.csproj|solutionrelative:gold_assignment\\maingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE463AFF-3FAC-4881-9CB2-9A182B119530}|Gold_assignment\\Gold_assignment.csproj|c:\\users\\admin\\documents\\github\\gm07_changeunsoo_elementalalchemist\\gold_assignment\\boardsystem\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE463AFF-3FAC-4881-9CB2-9A182B119530}|Gold_assignment\\Gold_assignment.csproj|solutionrelative:gold_assignment\\boardsystem\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FE463AFF-3FAC-4881-9CB2-9A182B119530}|Gold_assignment\\Gold_assignment.csproj|c:\\users\\admin\\documents\\github\\gm07_changeunsoo_elementalalchemist\\gold_assignment\\boardsystem\\elementcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE463AFF-3FAC-4881-9CB2-9A182B119530}|Gold_assignment\\Gold_assignment.csproj|solutionrelative:gold_assignment\\boardsystem\\elementcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,75 +38,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Board.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\GitHub\\GM07_ChangEunsoo_ElementalAlchemist\\Gold_assignment\\BoardSystem\\Board.cs",
+              "RelativeDocumentMoniker": "Gold_assignment\\BoardSystem\\Board.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\GitHub\\GM07_ChangEunsoo_ElementalAlchemist\\Gold_assignment\\BoardSystem\\Board.cs",
+              "RelativeToolTip": "Gold_assignment\\BoardSystem\\Board.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAYwGYAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T08:36:28.195Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "GameSystem.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\GitHub\\GM07_ChangEunsoo_ElementalAlchemist\\Gold_assignment\\GameSystem.cs",
               "RelativeDocumentMoniker": "Gold_assignment\\GameSystem.cs",
               "ToolTip": "C:\\Users\\admin\\Documents\\GitHub\\GM07_ChangEunsoo_ElementalAlchemist\\Gold_assignment\\GameSystem.cs",
               "RelativeToolTip": "Gold_assignment\\GameSystem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-22T08:32:22.965Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-22T08:32:22.965Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "UserInfo.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\GitHub\\GM07_ChangEunsoo_ElementalAlchemist\\Gold_assignment\\UserInfo\\UserInfo.cs",
               "RelativeDocumentMoniker": "Gold_assignment\\UserInfo\\UserInfo.cs",
               "ToolTip": "C:\\Users\\admin\\Documents\\GitHub\\GM07_ChangEunsoo_ElementalAlchemist\\Gold_assignment\\UserInfo\\UserInfo.cs",
               "RelativeToolTip": "Gold_assignment\\UserInfo\\UserInfo.cs",
-              "ViewState": "AgIAAFUAAAAAAAAAAAAQwCIAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAG4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T08:34:43.698Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-18T08:34:43.698Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MobInfo.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\GitHub\\GM07_ChangEunsoo_ElementalAlchemist\\Gold_assignment\\MobInfo\\MobInfo.cs",
-              "RelativeDocumentMoniker": "Gold_assignment\\MobInfo\\MobInfo.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\GitHub\\GM07_ChangEunsoo_ElementalAlchemist\\Gold_assignment\\MobInfo\\MobInfo.cs",
-              "RelativeToolTip": "Gold_assignment\\MobInfo\\MobInfo.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAgwDIAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-19T08:36:20.502Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Board.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\GitHub\\GM07_ChangEunsoo_ElementalAlchemist\\Gold_assignment\\BoardSystem\\Board.cs",
-              "RelativeDocumentMoniker": "Gold_assignment\\BoardSystem\\Board.cs",
-              "ToolTip": "C:\\Users\\admin\\Documents\\GitHub\\GM07_ChangEunsoo_ElementalAlchemist\\Gold_assignment\\BoardSystem\\Board.cs",
-              "RelativeToolTip": "Gold_assignment\\BoardSystem\\Board.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-19T08:36:28.195Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "MainGame.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\GitHub\\GM07_ChangEunsoo_ElementalAlchemist\\Gold_assignment\\MainGame.cs",
               "RelativeDocumentMoniker": "Gold_assignment\\MainGame.cs",
               "ToolTip": "C:\\Users\\admin\\Documents\\GitHub\\GM07_ChangEunsoo_ElementalAlchemist\\Gold_assignment\\MainGame.cs",
               "RelativeToolTip": "Gold_assignment\\MainGame.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwBMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-18T08:34:36.151Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-18T08:34:36.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UISystem.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\GitHub\\GM07_ChangEunsoo_ElementalAlchemist\\Gold_assignment\\UISystem.cs",
+              "RelativeDocumentMoniker": "Gold_assignment\\UISystem.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\GitHub\\GM07_ChangEunsoo_ElementalAlchemist\\Gold_assignment\\UISystem.cs",
+              "RelativeToolTip": "Gold_assignment\\UISystem.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAuwCEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T17:43:21.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ElementControl.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\GitHub\\GM07_ChangEunsoo_ElementalAlchemist\\Gold_assignment\\BoardSystem\\ElementControl.cs",
+              "RelativeDocumentMoniker": "Gold_assignment\\BoardSystem\\ElementControl.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\GitHub\\GM07_ChangEunsoo_ElementalAlchemist\\Gold_assignment\\BoardSystem\\ElementControl.cs",
+              "RelativeToolTip": "Gold_assignment\\BoardSystem\\ElementControl.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T18:47:13.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MobInfo.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\GitHub\\GM07_ChangEunsoo_ElementalAlchemist\\Gold_assignment\\MobInfo\\MobInfo.cs",
+              "RelativeDocumentMoniker": "Gold_assignment\\MobInfo\\MobInfo.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\GitHub\\GM07_ChangEunsoo_ElementalAlchemist\\Gold_assignment\\MobInfo\\MobInfo.cs",
+              "RelativeToolTip": "Gold_assignment\\MobInfo\\MobInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T08:36:20.502Z"
             }
           ]
         }
